@@ -31,4 +31,5 @@ else hash[key]
   hash[key] =1
   
 end
+hash[key]
 end
